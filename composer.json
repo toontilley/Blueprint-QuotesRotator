@@ -1,0 +1,16 @@
+{
+    "name": "toontilley/Blueprint-QuotesRotator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codrops"
+        },
+        {
+            "name": "Mark Tilley"
+        }
+    ],
+    "require": {
+        "components/jquery": "2.1.4"
+    }
+    
+}
